@@ -508,6 +508,7 @@ input.search-form:hover {
   -ms-animation: fadeInUp 300ms linear 300ms both;
   animation: fadeInUp 300ms linear 300ms both;
   background: rgba(150,150,150,0.5);
+  padding: 10px 10px 10px 10px;
   width: 70%;
 }
 
